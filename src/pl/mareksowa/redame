@@ -1,0 +1,7 @@
+6.  Stworzyć projekt książki telefonicznej. Użytkownik wchodząc do aplikacji odkrywa ładne i estetyczne menu:
+1. Dodaj kontakt (pobieramy dane takie jak: imię, nazwisko, telefon).
+2. Zobacz wszystkie kontakty
+3. Usuń kontakt po nazwisku. Zdefiniuj maksymalną ilość kontaktów w wysokości: 100. Kontakt telefoniczny
+reprezentuj jako  osobną klasę Contact (imie, nazwisko, tel). Menu w osobnej klasie. Startej w osobnej klasie.
+Nie dopuszczaj do dodawania kontaktów o takim samym nazwisku czy telefonie :slightly_smiling_face:
+SKUP SIĘ MAKSYMALNIE NA CLEANCODE. Pracujcie intensywnie parami.
